@@ -13,7 +13,7 @@
 - **React:** The app is developed using React, making it easy to manage state, components, and ensure a smooth user experience.
 - **OpenWeatherMap API:** Real-time weather data is fetched from the OpenWeatherMap API to provide accurate and reliable information.
   
-## Preview
+## Preview:
 ![Weather-App](https://github.com/saraverdigi3/WeatherApp/assets/145349284/a2331d4a-a0b8-4d1e-8b6c-ba34c6b33d9f)
 
 ## Getting Started:
