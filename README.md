@@ -17,11 +17,11 @@
 ![Weather-App](https://github.com/saraverdigi3/WeatherApp/assets/145349284/a2331d4a-a0b8-4d1e-8b6c-ba34c6b33d9f)
 
 ## Getting Started:
-1. Clone the repository
-2. Install dependencies: 'npm install'
-3. Obtain API key:
+1. **Clone the repository**
+2. **Install dependencies:** 'npm install'
+3. **Obtain API key:**
    - Sign up on OpenWeatherMap to get your API key.
    - Replace the placeholder API key in the config.js file with your actual key.
-4. Start the app: 'npm start'
+4. **Start the app:** 'npm start'
 
 
